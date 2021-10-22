@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "987909932262",
+    "project_id": "loginwithfirebase-fesotini2021",
+    "storage_bucket": "loginwithfirebase-fesotini2021.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987909932262:android:142e2400f8e024fecba727",
+        "android_client_info": {
+          "package_name": "com.example.loginwithfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "987909932262-1h74nqikas2dlmdjd76q1icr2mt8jhfi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7WwZ94TmntGfR_FjkCiLH5FEZrMRjpuQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "987909932262-1h74nqikas2dlmdjd76q1icr2mt8jhfi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
